@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.user-profile-pic{
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: none;
+
+}
