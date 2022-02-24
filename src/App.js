@@ -27,6 +27,7 @@
 // Task 2 ******************
 
 // import React from "react";
+// import './App.css';
 
 // export default function App(){
 //     return(
@@ -43,6 +44,7 @@
 
 
 // import React from "react";
+// import './App.css';
 
 // export default function App(){
 //     return(
@@ -65,6 +67,7 @@
 // Task 4 ******************
 
 // import React from "react";
+// import './App.css';
 
 // export default function App(){
 //     return(
@@ -94,6 +97,7 @@
 // Task 5 ******************
 
 // import React from "react";
+// import './App.css';
 
 // export default function App(){
    
@@ -121,6 +125,7 @@
 // Task 6 ******************
 
 // import React from "react";
+// import './App.css';
 
 // export default function App(){
    
@@ -160,3 +165,34 @@
 //     )
 // }
 
+// Task 7 ******************
+
+// import React, { useState } from "react";
+// import './App.css';
+
+// export default function App(){
+//     return(
+//         <div className="App">
+//             <Counter/>
+
+//         </div>
+//     )
+// }
+
+// function Counter(){
+// //    let Like =4
+// const [Like,setLike] = useState(0)
+//     return(
+//         <div>
+//             <button 
+//             onClick={ ()=>{
+//                     setLike(Like+1);
+//                      console.log(Like);
+//                     }
+//                 }
+//             >
+//               👍 {Like}</button>
+//             <p>{Like}</p>
+//         </div>
+//     )
+// }

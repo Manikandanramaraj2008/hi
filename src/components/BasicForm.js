@@ -22,7 +22,7 @@ export function BasicForm(){
              name ="email"
              id="email"
              type = "email"
-             value = {"formik.values.emai"}
+             value = {"formik.values.email"}
              onChange ={"formik.handleChange"}
              onBlur ={"formik.handleBlur"}
               placeholder="email"/><br/>
